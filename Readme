@@ -1,0 +1,22 @@
+Binary Search Tree (bst)
+
+To compile the program:
+make compile
+
+To run test1.txt:
+make run
+To run test2.txt:
+make run2
+To run test3.txt:
+make run3
+To run test4.txt:
+make run4
+To run test5.txt:
+make run5
+To run insertOnlyTest.txt:
+make run6
+To run insertDeleteTest.txt:
+make run7
+
+To clean the program executable:
+make clean
